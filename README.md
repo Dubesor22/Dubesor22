@@ -1,14 +1,27 @@
 <h1 align="center">¡Hola! Soy David!</h1>
 
+<br/>
+<div align="center">
+- <img align="center" alt="Rafa-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Full-Stack JavaScript Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📩 You can contact me by email: dubesor22@gmail.com
+- 👨‍💻 Allwais ready for Coding!!
+  </div>
+  <br/>
+  
+
+
+
 <div align="center">
   <img  src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
 
-[![Repos Badge](https://badges.pufler.dev/repos/dubesor22)](https://badges.pufler.dev)
+
+![Repos Badge](https://badges.pufler.dev/repos/dubesor22)]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dubesor22&left_color=gray&right_color=blue)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dubesor22&show_icons=true&bg_color=DEG,850B20,37000A&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&locale=es&custom_title=dubesor22&hide=prs,issues">
  </div>
+ <br/>
 
 <h2>FrontEnd</h2>
 <div>
